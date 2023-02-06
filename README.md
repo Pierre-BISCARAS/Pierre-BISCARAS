@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello World ! 👋
 
-<!--
-**Pierre-BISCARAS/Pierre-BISCARAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Qui suis-je ?**
 
-Here are some ideas to get you started:
+<p>Je m'appelle Pierre Biscaras, je suis en 2ème année en BUT informatique en alternance.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on **network and dev**
+- 🌱 I’m currently learning **Cyber-security**
+- 📫 How to reach me: linkedin.com/in/pierre-biscaras/
+
+## Tools I use
+
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="32" height="32"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="32" height="32"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="javascript" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
+</p>
+
+## Follow me
+
+- Add **<a href="https://www.linkedin.com/in/pierre-biscaras">Pierre Biscaras</a> on LinkedIn**
