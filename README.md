@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **network and dev**
 - 🌱 I’m currently learning **Cyber-security**
-- 📫 How to reach me: linkedin.com/in/pierre-biscaras/
+- 📫 How to reach me: **<a href="https://www.linkedin.com/in/pierre-biscaras">Pierre Biscaras</a> on LinkedIn**
 
 ## Tools I use
 
