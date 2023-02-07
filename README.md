@@ -25,6 +25,10 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pierre-BISCARAS&show_icons=true&locale=en&layout=compact" alt="Pierre-BISCARAS" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pierre-BISCARAS&show_icons=true&locale=en" alt="Pierre-BISCARAS" /></p>
+
 ## Follow me
 
 - Add **<a href="https://www.linkedin.com/in/pierre-biscaras">Pierre Biscaras</a> on LinkedIn**
