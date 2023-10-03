@@ -2,7 +2,7 @@
 
 **Qui suis-je ?**
 
-<p>Je m'appelle Pierre Biscaras, je suis en 2ème année en BUT informatique en alternance.</p>
+<p>Je m'appelle Pierre Biscaras, je suis en 3ème année en BUT informatique en alternance.</p>
 
 
 - 🔭 I’m currently working on **network and dev**
